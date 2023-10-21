@@ -13,5 +13,9 @@ public class ConditionalExpressions {
 
         System.out.println("Is adult: " + isAdult);
         System.out.println("Is kid: " + isKid);
+
+        boolean negationValue =!isAdult;
+        System.out.println("negated value: " + negationValue);
+
     }
 }
