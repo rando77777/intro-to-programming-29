@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("I like JAVA:");
+        System.out.println("I like kringel:");
+        System.out.println("I like kringel:");
         //System.out.println("YES: I DID IT!");
         //System.out.println("Hello RANDO!");
     }
