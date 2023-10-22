@@ -22,7 +22,11 @@ public class IfElseExampel {
             System.out.println("Else, if was false");
             System.out.println("Kid");
         }
+
+        System.out.println("always printed");
     }
+
+
 }
 
 
