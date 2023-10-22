@@ -17,5 +17,7 @@ public class ConditionalExpressions {
         boolean negationValue =!isAdult;
         System.out.println("negated value: " + negationValue);
 
+
+
     }
 }
