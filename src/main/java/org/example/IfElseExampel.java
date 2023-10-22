@@ -1,4 +1,4 @@
-public class IfElseExample {
+public class IfElseExampel {
 
     public static void main(String[] args) {
         System.out.println("Let's make decision. Are You adult or kid?");
