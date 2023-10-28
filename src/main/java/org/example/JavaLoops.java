@@ -40,7 +40,11 @@ public class JavaLoops {
         // **
         // ***
         // print 10 lines
-        for (int i =1; i )
+        for (int i = 0; i < 10; i++) {
+
+                System.out.println("stars");
+                //stars = stars + "*";
+        }
     }
 }
 
