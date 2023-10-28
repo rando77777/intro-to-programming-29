@@ -23,12 +23,19 @@ public class JavaLoops {
         System.out.println("Outside while control is: " + control);
 
         // infinite for loop
-        for(;;) {
+//        for(;;) {
+//
+//        }
 
+        for (int i = 100; i > 0; i--) {
+            System.out.println("Current value of i: " + i);
+            if (i == 90) {
+                // exit the loop
+                break;
+            }
         }
     }
 }
-
 
 
 
