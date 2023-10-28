@@ -34,6 +34,13 @@ public class JavaLoops {
                 break;
             }
         }
+
+        System.out.println("Printing stars");
+        // *
+        // **
+        // ***
+        // print 10 lines
+        for (int i =1; i )
     }
 }
 
