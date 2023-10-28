@@ -29,6 +29,11 @@ public class WhileLoop {
         }
 
     }
+    public static void javaForever() {
+        while (true) {
+            System.out.println("Java forever");
+        }
+    }
 }
 
 
