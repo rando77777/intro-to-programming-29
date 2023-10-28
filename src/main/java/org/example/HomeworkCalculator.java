@@ -9,7 +9,7 @@ public class HomeworkCalculator {
         System.out.println("number one is: " + numberOne);
         int numberTwo = 15;
         add(numberOne, numberTwo);
-        int bigSum = (1, 1, 2, 2, 1);
+        int bigSum =addManyNumbers (1, 1, 2, 2, 1);
         System.out.println("Big sum of numbers is: " + bigSum);
     }
 
@@ -47,7 +47,7 @@ public class HomeworkCalculator {
 
 
 
-    Message intro-to-programming
+
 
 
 
